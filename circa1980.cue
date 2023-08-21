@@ -440,7 +440,7 @@ FILE "circa1980.mp3" MP3
 
 	TRACK 74 AUDIO
 		PERFORMER "Daddy Dewdrop"
-		TITLE "The Real Thing [narrowed]"
+		TITLE "The Real Thing"
 		REM DATE 1979
 		INDEX 01 87:43:00
 
@@ -740,7 +740,7 @@ FILE "circa1980.mp3" MP3
 
 	TRACK 124 AUDIO
 		PERFORMER "Berlin"
-		TITLE "Sex (I'm A...)"
+		TITLE "Sex"
 		REM DATE 1982
 		INDEX 01 149:54:00
 
@@ -758,7 +758,7 @@ FILE "circa1980.mp3" MP3
 
 	TRACK 127 AUDIO
 		PERFORMER "Donna Summer"
-		TITLE "Love Is In Control (Finger On The Trigger)"
+		TITLE "Love Is In Control"
 		REM DATE 1982
 		INDEX 01 152:55:00
 
@@ -776,7 +776,7 @@ FILE "circa1980.mp3" MP3
 
 	TRACK 130 AUDIO
 		PERFORMER "New Order"
-		TITLE "586 (Peel Session)"
+		TITLE "586"
 		REM DATE 1982
 		INDEX 01 157:03:00
 
@@ -1010,7 +1010,7 @@ FILE "circa1980.mp3" MP3
 
 	TRACK 169 AUDIO
 		PERFORMER "Digital Emotion"
-		TITLE "Get Up (Action)"
+		TITLE "Get Up"
 		REM DATE 1983
 		INDEX 01 205:35:00
 
@@ -1154,7 +1154,7 @@ FILE "circa1980.mp3" MP3
 
 	TRACK 193 AUDIO
 		PERFORMER "Vicious Pink"
-		TITLE "Cccan't You See (French version)"
+		TITLE "Cccan't You See"
 		REM DATE 1984
 		INDEX 01 237:15:00
 
@@ -1184,19 +1184,19 @@ FILE "circa1980.mp3" MP3
 
 	TRACK 198 AUDIO
 		PERFORMER "Art Of Noise"
-		TITLE "Beat Box (Diversion One)"
+		TITLE "Beat Box"
 		REM DATE 1984
 		INDEX 01 243:06:00
 
 	TRACK 199 AUDIO
 		PERFORMER "Soma Holiday"
-		TITLE "Shake Your Molecules (Original)"
+		TITLE "Shake Your Molecules"
 		REM DATE 1984
 		INDEX 01 244:26:00
 
 	TRACK 200 AUDIO
 		PERFORMER "Alphaville"
-		TITLE "The Nelson Highrise Sector 1 - The Elevator (Single Version)"
+		TITLE "The Elevator"
 		REM DATE 1984
 		INDEX 01 245:46:00
 
@@ -1262,7 +1262,7 @@ FILE "circa1980.mp3" MP3
 
 	TRACK 211 AUDIO
 		PERFORMER "Yello"
-		TITLE "Sometimes (Dr. Hirsch)"
+		TITLE "Sometimes"
 		REM DATE 1985
 		INDEX 01 258:17:00
 

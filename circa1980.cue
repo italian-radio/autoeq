@@ -32,7 +32,7 @@ FILE "circa1980.mp3" MP3
 
 	TRACK 6 AUDIO
 		PERFORMER "The Human League"
-		TITLE "Dance Like a Star"
+		TITLE "Dance like a Star"
 		REM DATE 1977
 		INDEX 01 5:04:00
 

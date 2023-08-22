@@ -637,7 +637,7 @@ FILE "circa1980.mp3" MP3
 		INDEX 01 127:35:00
 
 	TRACK 107 AUDIO
-		PERFORMER "Nacht Und Nebel"
+		PERFORMER "Nacht und Nebel"
 		TITLE "Robot Robot"
 		REM DATE 1981
 		INDEX 01 128:57:00

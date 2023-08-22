@@ -14,7 +14,7 @@ FILE "circa1980.mp3" MP3
 
 	TRACK 3 AUDIO
 		PERFORMER "Dexter Wansel"
-		TITLE "Life On Mars"
+		TITLE "Life on Mars"
 		REM DATE 1976
 		INDEX 01 1:44:00
 
@@ -32,7 +32,7 @@ FILE "circa1980.mp3" MP3
 
 	TRACK 6 AUDIO
 		PERFORMER "The Human League"
-		TITLE "Dance Like A Star"
+		TITLE "Dance Like a Star"
 		REM DATE 1977
 		INDEX 01 5:04:00
 
@@ -44,7 +44,7 @@ FILE "circa1980.mp3" MP3
 
 	TRACK 8 AUDIO
 		PERFORMER "Electronic System"
-		TITLE "Fly To Venus"
+		TITLE "Fly to Venus"
 		REM DATE 1977
 		INDEX 01 7:29:00
 
@@ -98,7 +98,7 @@ FILE "circa1980.mp3" MP3
 
 	TRACK 17 AUDIO
 		PERFORMER "Falcons"
-		TITLE "Perdido En El Universo"
+		TITLE "Perdido en el Universo"
 		REM DATE 1978
 		INDEX 01 17:47:00
 
@@ -116,7 +116,7 @@ FILE "circa1980.mp3" MP3
 
 	TRACK 20 AUDIO
 		PERFORMER "Queen Samantha"
-		TITLE "Take A Chance"
+		TITLE "Take a Chance"
 		REM DATE 1978
 		INDEX 01 21:52:00
 
@@ -140,7 +140,7 @@ FILE "circa1980.mp3" MP3
 
 	TRACK 24 AUDIO
 		PERFORMER "Paradise Frame"
-		TITLE "Love Is The Natural Way"
+		TITLE "Love is the Natural Way"
 		REM DATE 1978
 		INDEX 01 27:18:00
 
@@ -158,13 +158,13 @@ FILE "circa1980.mp3" MP3
 
 	TRACK 27 AUDIO
 		PERFORMER "Crown Heights Affair"
-		TITLE "Galaxy Of Love"
+		TITLE "Galaxy of Love"
 		REM DATE 1978
 		INDEX 01 31:09:00
 
 	TRACK 28 AUDIO
-		PERFORMER "Sarah Brightman And Hot Gossip"
-		TITLE "I Lost My Heart To A Starship Trooper"
+		PERFORMER "Sarah Brightman and Hot Gossip"
+		TITLE "I Lost my Heart to a Starship Trooper"
 		REM DATE 1978
 		INDEX 01 32:34:00
 
@@ -188,13 +188,13 @@ FILE "circa1980.mp3" MP3
 
 	TRACK 32 AUDIO
 		PERFORMER "Rene Riche & Her Cosmic Band"
-		TITLE "Love In Space"
+		TITLE "Love in Space"
 		REM DATE 1978
 		INDEX 01 37:15:00
 
 	TRACK 33 AUDIO
 		PERFORMER "Steelcream"
-		TITLE "Ten Hertz Pt.1"
+		TITLE "Ten Hertz"
 		REM DATE 1978
 		INDEX 01 38:11:00
 
@@ -212,7 +212,7 @@ FILE "circa1980.mp3" MP3
 
 	TRACK 36 AUDIO
 		PERFORMER "Boney M"
-		TITLE "Nightflight To Venus"
+		TITLE "Nightflight to Venus"
 		REM DATE 1978
 		INDEX 01 42:25:00
 
@@ -248,7 +248,7 @@ FILE "circa1980.mp3" MP3
 
 	TRACK 42 AUDIO
 		PERFORMER "Peter Jacques Band"
-		TITLE "Fly With The Wind"
+		TITLE "Fly with the Wind"
 		REM DATE 1978
 		INDEX 01 50:00:00
 
@@ -284,19 +284,19 @@ FILE "circa1980.mp3" MP3
 
 	TRACK 48 AUDIO
 		PERFORMER "Bamboo"
-		TITLE "Travelling Through Space And Time"
+		TITLE "Travelling through Space and Time"
 		REM DATE 1979
 		INDEX 01 57:36:00
 
 	TRACK 49 AUDIO
 		PERFORMER "Tantra"
-		TITLE "The Hills Of Katmandu"
+		TITLE "The Hills of Katmandu"
 		REM DATE 1979
 		INDEX 01 59:06:00
 
 	TRACK 50 AUDIO
 		PERFORMER "Ströer"
-		TITLE "Don't Stay For Breakfast"
+		TITLE "Don't Stay for Breakfast"
 		REM DATE 1979
 		INDEX 01 60:37:00
 
@@ -343,7 +343,7 @@ FILE "circa1980.mp3" MP3
 		INDEX 01 68:25:00
 
 	TRACK 58 AUDIO
-		PERFORMER "Buck Rogers In The 25th Century"
+		PERFORMER "Buck Rogers in the 25th Century"
 		TITLE "(Dialogue)"
 		REM DATE 1979
 		INDEX 01 69:34:00
@@ -362,13 +362,13 @@ FILE "circa1980.mp3" MP3
 
 	TRACK 61 AUDIO
 		PERFORMER "Miriam Stockley"
-		TITLE "Disco Queen Of Venus"
+		TITLE "Disco Queen of Venus"
 		REM DATE 1979
 		INDEX 01 72:56:00
 
 	TRACK 62 AUDIO
 		PERFORMER "Sparks"
-		TITLE "Tryouts For The Human Race"
+		TITLE "Tryouts for the Human Race"
 		REM DATE 1979
 		INDEX 01 73:39:00
 
@@ -428,7 +428,7 @@ FILE "circa1980.mp3" MP3
 
 	TRACK 72 AUDIO
 		PERFORMER "Tamiko Jones"
-		TITLE "Can't Live Without Your Love"
+		TITLE "Can't Live without your Love"
 		REM DATE 1979
 		INDEX 01 85:28:00
 
@@ -482,7 +482,7 @@ FILE "circa1980.mp3" MP3
 
 	TRACK 81 AUDIO
 		PERFORMER "G. G. Tonet"
-		TITLE "Dedicated To Norbert Wiener"
+		TITLE "Dedicated to Norbert Wiener"
 		REM DATE 1980
 		INDEX 01 95:59:00
 
@@ -500,7 +500,7 @@ FILE "circa1980.mp3" MP3
 
 	TRACK 84 AUDIO
 		PERFORMER "Gino Soccio"
-		TITLE "Rythm Of The World"
+		TITLE "Rythm of the World"
 		REM DATE 1980
 		INDEX 01 99:51:00
 
@@ -512,7 +512,7 @@ FILE "circa1980.mp3" MP3
 
 	TRACK 86 AUDIO
 		PERFORMER "Kat Mandu"
-		TITLE "Time To Get Down"
+		TITLE "Time to Get Down"
 		REM DATE 1980
 		INDEX 01 102:24:00
 
@@ -566,7 +566,7 @@ FILE "circa1980.mp3" MP3
 
 	TRACK 95 AUDIO
 		PERFORMER "Love International"
-		TITLE "Airport Of Love"
+		TITLE "Airport of Love"
 		REM DATE 1981
 		INDEX 01 114:12:00
 
@@ -662,7 +662,7 @@ FILE "circa1980.mp3" MP3
 
 	TRACK 111 AUDIO
 		PERFORMER "Tonic"
-		TITLE "Marylin En Jean"
+		TITLE "Marylin en Jean"
 		REM DATE 1981
 		INDEX 01 133:55:00
 
@@ -758,13 +758,13 @@ FILE "circa1980.mp3" MP3
 
 	TRACK 127 AUDIO
 		PERFORMER "Donna Summer"
-		TITLE "Love Is In Control"
+		TITLE "Love is in Control"
 		REM DATE 1982
 		INDEX 01 152:55:00
 
 	TRACK 128 AUDIO
 		PERFORMER "Thomas Dolby"
-		TITLE "She Blinded Me With Science"
+		TITLE "She Blinded Me with Science"
 		REM DATE 1982
 		INDEX 01 154:16:00
 
@@ -812,13 +812,13 @@ FILE "circa1980.mp3" MP3
 
 	TRACK 136 AUDIO
 		PERFORMER "Taco"
-		TITLE "Livin' In My Dreamworld"
+		TITLE "Livin' in my Dreamworld"
 		REM DATE 1982
 		INDEX 01 165:02:00
 
 	TRACK 137 AUDIO
 		PERFORMER "Louise Tucker"
-		TITLE "Waiting For Hugo"
+		TITLE "Waiting for Hugo"
 		REM DATE 1982
 		INDEX 01 166:21:00
 
@@ -932,13 +932,13 @@ FILE "circa1980.mp3" MP3
 
 	TRACK 156 AUDIO
 		PERFORMER "The System"
-		TITLE "You Are In My System"
+		TITLE "You are in my System"
 		REM DATE 1983
 		INDEX 01 189:57:00
 
 	TRACK 157 AUDIO
 		PERFORMER "Rah Band"
-		TITLE "Messages From The Stars"
+		TITLE "Messages from the Stars"
 		REM DATE 1983
 		INDEX 01 191:20:00
 
@@ -950,13 +950,13 @@ FILE "circa1980.mp3" MP3
 
 	TRACK 159 AUDIO
 		PERFORMER "Project Future"
-		TITLE "Ray-Gun-Omics"
+		TITLE "Ray-gun-omics"
 		REM DATE 1983
 		INDEX 01 193:53:00
 
 	TRACK 160 AUDIO
 		PERFORMER "Doctor's Cat"
-		TITLE "Feel The Drive"
+		TITLE "Feel the Drive"
 		REM DATE 1983
 		INDEX 01 194:53:00
 
@@ -974,7 +974,7 @@ FILE "circa1980.mp3" MP3
 
 	TRACK 163 AUDIO
 		PERFORMER "Neon"
-		TITLE "My Blues Is You"
+		TITLE "My Blues is You"
 		REM DATE 1983
 		INDEX 01 198:39:00
 
@@ -998,7 +998,7 @@ FILE "circa1980.mp3" MP3
 
 	TRACK 167 AUDIO
 		PERFORMER "Anne Clark"
-		TITLE "Sleeper In Metropolis"
+		TITLE "Sleeper in Metropolis"
 		REM DATE 1983
 		INDEX 01 203:39:00
 
@@ -1052,7 +1052,7 @@ FILE "circa1980.mp3" MP3
 
 	TRACK 176 AUDIO
 		PERFORMER "The Jonzun Crew"
-		TITLE "We Are the Jonzun Crew"
+		TITLE "We are the Jonzun Crew"
 		REM DATE 1983
 		INDEX 01 215:10:00
 
@@ -1082,13 +1082,13 @@ FILE "circa1980.mp3" MP3
 
 	TRACK 181 AUDIO
 		PERFORMER "Trans-X"
-		TITLE "Living On Video"
+		TITLE "Living on Video"
 		REM DATE 1983
 		INDEX 01 221:57:00
 
 	TRACK 182 AUDIO
 		PERFORMER "Lisa"
-		TITLE "Rocket To Your Heart"
+		TITLE "Rocket to your Heart"
 		REM DATE 1983
 		INDEX 01 223:08:00
 
@@ -1142,7 +1142,7 @@ FILE "circa1980.mp3" MP3
 
 	TRACK 191 AUDIO
 		PERFORMER "Saâda Bonaire"
-		TITLE "Heart Over Head"
+		TITLE "Heart over Head"
 		REM DATE 1984
 		INDEX 01 235:01:00
 
@@ -1183,14 +1183,14 @@ FILE "circa1980.mp3" MP3
 		INDEX 01 241:56:00
 
 	TRACK 198 AUDIO
-		PERFORMER "Art Of Noise"
+		PERFORMER "Art of Noise"
 		TITLE "Beat Box"
 		REM DATE 1984
 		INDEX 01 243:06:00
 
 	TRACK 199 AUDIO
 		PERFORMER "Soma Holiday"
-		TITLE "Shake Your Molecules"
+		TITLE "Shake your Molecules"
 		REM DATE 1984
 		INDEX 01 244:26:00
 
@@ -1202,7 +1202,7 @@ FILE "circa1980.mp3" MP3
 
 	TRACK 201 AUDIO
 		PERFORMER "Mantronix"
-		TITLE "Needle To The Groove"
+		TITLE "Needle to the Groove"
 		REM DATE 1985
 		INDEX 01 246:54:00
 
@@ -1256,7 +1256,7 @@ FILE "circa1980.mp3" MP3
 
 	TRACK 210 AUDIO
 		PERFORMER "J.S.R."
-		TITLE "Les Voix De La Nuit"
+		TITLE "Les Voix de la Nuit"
 		REM DATE 1985
 		INDEX 01 257:08:00
 
